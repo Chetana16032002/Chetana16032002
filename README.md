@@ -1,7 +1,7 @@
 
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=%C6D57E&size=35&center=true&vCenter=true&lines=++++Hi..+It's++Chetana++here..;++++A++Web++Developer;++++Technology++enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=%C6D57E&size=35&center=true&vCenter=true&lines=++++Hi..+It's++Chetana++here..;++++A++Web++Developer)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
