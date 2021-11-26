@@ -28,4 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetana16032002&show_icons=true&locale=en" alt="chetana16032002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetana16032002&" alt="chetana16032002"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetana16032002&" alt="chetana16032002"/></p>
+ -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chetana16032002&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
