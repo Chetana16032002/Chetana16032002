@@ -17,8 +17,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetana16032002&theme=dark&show_icons=true&locale=en&layout=compact" alt="chetana16032002" /></p>
-
 
  <p>&nbsp;<img align="center " src="https://github-readme-stats.vercel.app/api?username=chetana16032002&theme=dark&show_icons=true" alt="chetana16032002" /></p>
 
