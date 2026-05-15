@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=%EADEDE&size=35&center=true&vCenter=true&lines=++++Hi..+I'm++Chetana;++++A++Web++Developer;+++and++;++ML++enthusiast)](https://git.io/typing-svg)
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chetana16032002&label=Profile%20views&color=0e75b6&style=flat" alt="chetana16032002" /> </p>
 
