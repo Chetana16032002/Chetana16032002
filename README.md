@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Chetana;Cloud+%26+DevOps+Enthusiast;Technical+Analyst+%7C+Enterprise+Infrastructure;Linux+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+Reliable+Cloud+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Hi%2C+I'm+Chetana;Cloud+%26+DevOps+Enthusiast;Technical+Analyst;Linux+%7C+Azure+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
 </h1>
 
@@ -25,9 +25,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,bash,git,github,java,mysql,vscode&perline=6"/>
-
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,bash,git,github,java,mysql,vscode&perline=6" />
 </p>
 
 ---
@@ -94,11 +92,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chetana16032002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetana16032002&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chetana16032002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -106,9 +100,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=chetana16032002&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=chetana16032002&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
