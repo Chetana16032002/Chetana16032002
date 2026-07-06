@@ -107,12 +107,14 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chetana16032002&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chetana16032002/chetana16032002/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 # 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetana16032002&theme=tokyo-night&hide_border=true" />
-</p> 
+
 
 <p align="center">
 
