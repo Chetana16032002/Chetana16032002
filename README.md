@@ -22,11 +22,43 @@
 
 ---
 
-# 🚀 Tech Stack
+# ⚙️ &nbsp; `$ ls tech_stack/`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,linux,bash,git,github,java,mysql,vscode&perline=6" />
-</p>
+<div align="center">
+
+### ☁️ Cloud & DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<br>
+
+### 🏗 Infrastructure & Enterprise
+
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle OFSAA](https://img.shields.io/badge/Oracle_OFSAA-C74634?style=for-the-badge)
+![Enterprise Infrastructure](https://img.shields.io/badge/Enterprise_Infrastructure-5A5A5A?style=for-the-badge)
+![Production Support](https://img.shields.io/badge/Production_Support-0A66C2?style=for-the-badge)
+
+<br>
+
+### 💻 Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
